@@ -77,6 +77,7 @@ function foundUser(user) {
     let newUser = document.createElement("li");
     newUser = data.name;
     usr.append(newUser);
+    
    
 };
 
